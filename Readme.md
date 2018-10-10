@@ -1,5 +1,5 @@
-## Udemy-Git cours
+## Udemy- intorduction to Git and GitHub cours
 ### Fisrt Assignment
 
-Name: Fadia Qawasmi
-Note: Good Luck
+* Name: Fadia Qawasmi
+* Note: Good Luck
